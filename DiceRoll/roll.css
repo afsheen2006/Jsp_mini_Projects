@@ -1,0 +1,22 @@
+.div1{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction: column;
+    justify-items: center;
+
+}
+#dice{
+    padding:10px;
+    border:2px solid black;
+    box-shadow: 4px 3px 2px red;
+}
+#num{
+    padding-top: 60px;
+    padding-right:30px;
+    font-size: 2rem;
+    color: blue;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
