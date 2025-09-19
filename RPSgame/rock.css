@@ -1,0 +1,31 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#rock , #paper ,#scissor{
+    width: 100px;
+    height: 100px;
+    margin:10px;
+    font-size: xx-large;
+    border-radius: 50%;
+    cursor: pointer;
+    background-color: rgb(85, 233, 233);
+}
+#options{
+    padding-bottom: 30px;
+}
+
+#player{
+    font-size: larger;
+    padding: 9px;
+}
+#computer{
+    font-size: x-large;
+        padding: 8px;
+}
+#result{
+    font-size: xx-large;
+        padding: 7px;
+}
